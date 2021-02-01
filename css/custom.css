@@ -1,0 +1,13 @@
+.header_active {
+  opacity: 1;
+}
+
+.header_inactive {
+  opacity: 0.3;
+}
+
+.bg_text {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 30px;
+  border-radius: 15px;
+}
