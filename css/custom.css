@@ -11,3 +11,11 @@
   padding: 30px;
   border-radius: 15px;
 }
+
+.multirowlist ul {
+  display: inline-block;
+
+  list-style: inside;
+
+  /* margin: 5%; */
+}
